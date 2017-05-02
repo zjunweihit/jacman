@@ -84,8 +84,8 @@ links:
   wikipedia(en): https://en.wikipedia.org
 
 #### Comment
-duoshuo_shortname:    github ## e.g. wuchong   your duoshuo short name.
-disqus_shortname:     ## e.g. wuchong   your disqus short name.
+#duoshuo_shortname:    github ## e.g. wuchong   your duoshuo short name.
+#disqus_shortname:     ## e.g. wuchong   your disqus short name.
 
 #### Share button
 jiathis:
