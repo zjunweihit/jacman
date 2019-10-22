@@ -12,19 +12,19 @@ menu:
 
 #### Widgets
 widgets:
-#- github-card
+- github-card
 - category
 - tag
 - links
-- douban
-- rss
-- weibo
+  #- douban
+  #- rss
+  #- weibo
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
 
 
 
 #### RSS
-rss: /atom.xml ## RSS address.
+#rss: /atom.xml ## RSS address.
 
 #### Image
 imglogo:
@@ -63,9 +63,9 @@ author:
   tsina:      3230658564 ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:      zjunweihit@sina.com ## e.g. imjark@gmail.com
+  email:      zjunweihit@163.com ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:     https://github.com/zjunweihit ## e.g. wuchong for https://github.com/wuchong
+  github:     zjunweihit ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
